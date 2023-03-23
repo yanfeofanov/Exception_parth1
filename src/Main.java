@@ -6,6 +6,5 @@ public class Main {
         } else {
             System.out.println("Логин или пароль не корректные");
         }
-
     }
 }
